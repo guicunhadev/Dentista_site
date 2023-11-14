@@ -168,7 +168,7 @@ body {
     text-align: center;
     border-radius: var(--radius-4);
     box-shadow: var(--shadow-4);
-}
+  }
 
 .btn:is(:hover, :focus) { --deg: -90deg; }
 
@@ -334,3 +334,18 @@ body {
 }
 
 .service-card .card-title { margin-block-end: 8px; }
+
+/* ---------About-------- */
+
+.about { padding-block-end: 0; }
+
+.about-banner { margin-block-end: 50px; }
+
+.about .section-text-1 { margin-block: 25px 15px; }
+
+.about .btn {
+    font-size: unset;
+    max-width: max-content;
+    margin-block-start: 30px;
+    padding-inline: 15px;
+}
