@@ -438,3 +438,19 @@ body {
 }
 
 .has-scrollbar::-webkit-scrollbar-button { width: calc(25% - 30px); }
+
+/* -----------Cta-------- */
+
+.cta { background-color: var(--oxford-blue-1); }
+
+.cta-banner { margin-block-end: 50px; }
+
+.cta .section-subtitle { text-transform: capitalize; }
+
+.cta .section-title {
+    color: var(--white);
+    font-size: var(--fs-3);
+    margin-block-end: 30px;
+}
+
+.cta .btn { max-width: max-content; }
