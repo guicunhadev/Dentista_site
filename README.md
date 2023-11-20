@@ -1,7 +1,7 @@
 # Belo Sorriso Website 
 ![foto para github belo dente](https://github.com/guicunhadev/Dentista_site/assets/103011349/2f3d301b-825b-412e-b137-02668adb1296)
 > Status: Developed ✅
-> <a href="https://guicunhadev.github.io/Dentista_site/"><strong>➥ Live Demo</strong></a>
+> <a href="https://guicunhadev.github.io/Dentista_site/"  target= "_blank"><strong>➥ Live Demo</strong></a>
 
  ### It's a institutional fully responsive website for dental clinics, based on the tutorial <a href="https://github.com/codewithsadee/dentelo">Dentelo.</a> created by codewithsadee
 
